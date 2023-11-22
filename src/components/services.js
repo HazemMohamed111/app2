@@ -6,9 +6,9 @@ function Serving() {
     return (
         <>
         <div class= "">
-        <div class=" grid grid-cols-4 md:grid-cols-8 lg:grid-cols-12 lg:mx-16 ">
-        <p class=" text-[30px] font-serif font-black col-span-4 my-4 text-center text-[#0B093B] font-Khula md:col-span-8 md:text-[40px] lg:text-[40px] lg:col-span-12 lg:text-left ">Our Services</p>
-        <p class=" col-span-4 text-center text-[12px] font-serif text-[#0B093B] mx-6 my-4 md:col-span-8 md:text-[13px] md:my-[5px] lg:text-[13px] lg:mx-[-22px] lg:col-span-12 ">Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo impedit similique sint saepe reiciendis dolore, neque unde necessitatibus. Porro consequatur fugiat sequi culpa doloremque,</p>
+        <div class=" grid grid-cols-4 md:grid-cols-8 lg:grid-cols-12 lg:mx-16 lg:my-20 ">
+        <p class=" text-[30px] font-serif font-black col-span-4 my-4 text-center text-[#0B093B] font-Khula md:col-span-8 md:text-[40px] lg:text-[40px] lg:col-span-12  lg:text-left ">Our Services</p>
+        <p class=" col-span-4 text-center text-[12px] font-serif text-[#0B093B] mx-6 my-4 md:col-span-8 md:text-[13px] md:my-[5px] lg:text-[13px] lg:text-left lg:col-span-12 ">Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo impedit similique sint saepe reiciendis dolore, neque unde necessitatibus. Porro consequatur fugiat sequi culpa doloremque,</p>
         </div>
         <div class=" grid grid-cols-4 md:flex lg:grid-cols-12 mx-16">
         <div class=" col-span-4 mx-3 md:mx-0 md:w-1/4 "><Card img={graph} head="Graphic Design" description="Graphic design is the process of visual,communication and problem-solving using one or more of typography, photography and illustration."/></div>

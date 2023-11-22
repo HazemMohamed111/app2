@@ -3,7 +3,7 @@
 function Blog () {
     return(
         <>
-        <div class="md:mx-12 lg:mx-16">
+        <div class="md:mx-12 lg:mx-16 ">
             <p class=" text-center text-[30px] font-serif font-extrabold text-[#0B093B] md:text-left md:text-[40px] lg:text-[40px]">Our Blog Story</p>
             <p class=" text-[12px] text-[#0B093B] mx-6 text-center font-serif md:text-left md:text-[13px] lg:my-[20px]">Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo impedit similique sint saepe reiciendis dolore, neque unde necessitatibus. Porro consequatur fugiat sequi culpa doloremque,</p>
         </div>
@@ -17,7 +17,7 @@ function Blog () {
         <div class=" col-span-4 md:w-1/3 mx-4"><Cards head='New Office!' company="Company" name="Luke Skywalker, 2 days ago " description='Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incident ut lab'/></div>
         <div class=" col-span-4 md:w-1/3 mx-4"><Cards head='New Office!' company="Company" name="Luke Skywalker, 2 days ago " description='Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incident ut lab'/></div>
         </div>
-        <div class="grid grid-cols-4 md:my-10">
+        <div class="grid grid-cols-4 md:my-10 lg:mb-20">
             <button class="w-[200px] h-[48px] text-white bg-[#7620FF] hover:bg-violet-600 rounded-[10px] my-5 col-span-4 justify-self-center ">Load More</button>
         </div>
         </>

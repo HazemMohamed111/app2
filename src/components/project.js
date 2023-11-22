@@ -7,7 +7,7 @@ import pro6 from "../assets/p6.png";
 
 function Project (){
     return(
-        <div class=" md:mt-10 md:mx-12 lg:px-20">
+        <div class=" md:mt-10 md:mx-12 lg:px-20 lg:my-20">
             <div class=" grid grid-cols-4 md:grid-cols-8 md:px-4 lg:grid-cols-12 text-center my-2 ">
                 <p class=" col-span-4 text-[30px] font-extrabold text-[#0B093B] md:text-[40px] md:text-left md:col-span-8 lg:col-span-12 lg:text-[40px]">Our Projects</p>
                 <p class=" text-center text-[12px] mx-4 text-[#0B093B] col-span-4 md:text-[13px] md:text-left md:col-span-8 lg:col-span-12 lg:text-[13px]">Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo impedit similique sint saepe reiciendis dolore, neque unde necessitatibus. Porro consequatur fugiat sequi culpa doloremque,</p>

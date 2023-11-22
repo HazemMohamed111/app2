@@ -6,7 +6,7 @@ import logo from "../assets/logo00.svg";
 function Contact () {
     return(
         <>
-        <div class="bg-[#F5F5F5] lg:px-16">
+        <div class="bg-[#F5F5F5] lg:px-16 lg:py-20">
         <div class="">
             <p class="font-serif font-extrabold text-center text-[30px] p-6 md:text-left md:pt-4 md:pb-0 lg:text-[40p]" >Let's get in Touch</p>
             <p class="font-serif font-normal px-6 text-center md:text-left md:text-[13px] md:py-[12px] lg:text-[13px]">Lorom ipsum dolor sit amet consectetur adipisicing elit. Explicabo impedit similique sint saepe reiciendis dolore, neque unde necessitatibus.</p>
